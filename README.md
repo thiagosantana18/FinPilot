@@ -1,4 +1,4 @@
-# FinPilot — Assistente de Finanças Pessoais com Agente ReAct
+# FinPilot: Assistente de Finanças Pessoais com Agente ReAct
 
 Agente de linha de comando que conversa em português, registra gastos, consulta totais e simula metas e
 investimentos. Usa **LangChain**, um **LLM local e leve (Ollama)**, o padrão **ReAct** e **memória conversacional**.
